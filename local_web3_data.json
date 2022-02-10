@@ -1,6 +1,7 @@
 {
     "server": "HTTP://127.0.0.1:7545",
-    "network_id": "5777",
-    "address": "0x66a7dD0F37fB0389859880e8a4895BA20fa0dCB2",
-    "private_key": "0x5b612ba5b552500a7c6f14fa22216e45bf93d49bfeab2d72ff3f1976019df652"
+    "network_id": "1337",
+    "address": "0x10189875f3e06369e4217C2ea48Eab71861AEB14",
+    "private_key": "56d3cf0ffe939e16893f52759b7c811c589d63adf78b219bbab9b97817ecb422",
+    "address2": "0x72fC65245cF5d553fbe2184b5234df7d32E2Bb88"
 }
